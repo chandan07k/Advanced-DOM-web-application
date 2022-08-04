@@ -1,0 +1,15 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "advanced-dom",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "chandan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
